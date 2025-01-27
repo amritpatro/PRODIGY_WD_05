@@ -22,4 +22,3 @@ The Weather App is a user-friendly application designed to provide real-time wea
 
 Overall, the Weather App is a powerful and elegant tool for accessing real-time weather information. Its intuitive design, responsive layout, and comprehensive weather details make it an essential app for anyone looking to stay informed about the weather conditions in their area or any city around the world.
 
-If you have any more questions or need further assistance, feel free to ask!
